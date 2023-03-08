@@ -14,7 +14,10 @@ A estrutura do projeto é dividida em camadas, começando pela camada de aplica�
 ## MySQL2
 
 # Como executar o projeto
-Dentro da pasta, no terminal, digite o comando "npm run dev" e aperte Enter. O servidor subirá.
+
+Antes de tudo é preciso criar o arquivo node.modules com o comando **npm install**. Fazendo isto dentro da pasta do projeto "backend".
+
+Ainda dentro da pasta(backend), no terminal, digite o comando **npm run dev** e aperte Enter. O servidor subirá.
 
 Para verificar o projeto você precisa ter o Docker instalado em sua máquina. O Docker é uma plataforma de software que permite que você crie, execute e gerencie contêineres de aplicativos em sua máquina.
 
