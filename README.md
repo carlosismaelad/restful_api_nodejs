@@ -21,7 +21,7 @@ Ainda dentro da pasta(backend), no terminal, digite o comando **npm run dev** e 
 
 Para verificar o projeto você precisa ter o Docker instalado em sua máquina. O Docker é uma plataforma de software que permite que você crie, execute e gerencie contêineres de aplicativos em sua máquina.
 
-Se você deseja verificar o projeto, precisará executar o contêiner Docker do MySQL para poder se conectar ao banco de dados e testar o aplicativo. Use comandos como docker run para executar o contêiner.
+Se você deseja verificar o projeto, precisará executar o contêiner Docker do MySQL para poder se conectar ao banco de dados e testar o aplicativo. Use comandos como **docker run** para executar o contêiner.
 
 Não é necessário ter o MySQL instalado em sua máquina para verificar o projeto. O Docker é uma plataforma de virtualização que inclui tudo o que é necessário para executar o aplicativo, incluindo o sistema operacional, o ambiente de tempo de execução e as dependências do aplicativo.
 
