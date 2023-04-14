@@ -1,7 +1,7 @@
 # Resful API com Node.Js
 
 ## Sobre o Projeto
-Este projeto mostra uma API resful desenvolvida em Node.JS e apresenta uma implementação completa de um CRUD (Create, Read, Update e Delete). Usamos o bando de dados MySQL atravé do pacote mysql2. Para executar o banco de dados utilizamos um container Docker.
+Este projeto mostra uma API restful desenvolvida em Node.JS e apresenta uma implementação completa de um CRUD (Create, Read, Update e Delete). Usamos o bando de dados MySQL atravé do pacote mysql2. Para executar o banco de dados utilizamos um container Docker.
 
 ## Sobre a estrutura do projeto
 A estrutura do projeto é dividida em camadas, começando pela camada de aplicação (app), seguida pelo servidor (server), rotas (routes), controladores de tarefas (tasksControllers), conexões (connections) com o banco de dados, modelos de tarefas (tasksModels) e um middleware (tasksMiddleware) para validação de entradas.
